@@ -1,5 +1,6 @@
 {
   "name": "@yao-react/use-timeout",
+  "version": "0.1.0",
   "description": "React hook to treat timeout effect as state.",
   "keywords": [
     "react",
@@ -7,7 +8,6 @@
     "timeout",
     "useTimeout"
   ],
-  "version": "0.0.0",
   "main": "dist/index.js",
   "module": "dist/use-timeout.esm.js",
   "typings": "dist/index.d.ts",
@@ -19,6 +19,9 @@
   ],
   "repository": {
     "url": "https://github.com/yao-react/use-timeout"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "start": "tsdx watch",
