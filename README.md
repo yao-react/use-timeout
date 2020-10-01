@@ -29,7 +29,7 @@ const Demo = () => {
 
 ## API
 
-| prop | type                                   | required | description               |
+| name | type                                   | required | description               |
 | ---- | -------------------------------------- | -------- | ------------------------- |
 | ms   | null \| undefined \| boolean \| number | false    | the milliseconds to delay |
 | deps | Array<any>                             | false    |                           |
