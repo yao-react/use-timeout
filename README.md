@@ -2,9 +2,9 @@
 
 React hook to treat timeout effect as state.
 
-## Philosophy
+## Features
 
-Effect as state.
+- [value hook](https://www.yuque.com/zhaoyao91/chat-about-react/bgcn53)
 
 ## Install
 
